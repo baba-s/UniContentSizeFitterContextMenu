@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine.UI;
 
-namespace KoganeUnityLib
+namespace UniContentSizeFitterContextMenu
 {
 	internal static class ContentSizeFitterContextMenu
 	{
